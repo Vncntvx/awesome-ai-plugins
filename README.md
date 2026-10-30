@@ -163,6 +163,7 @@ Individually installable Agent Skills collections, rather than one client-specif
 ### Development & Workflow
 
 <!-- pinned -->
+- [Codex Attachment Manager](https://github.com/chipfighter/codex-attachment-manager) - Choose which past images in a Codex desktop task go to the model with your next message; unchecked ones become short placeholders.
 - [geml](https://github.com/geml-spec/geml) - An agent-native markup language featuring deterministic block-level editing and built-in validation to ensure documents never drift or break during AI operations.
 - [2718lab DevKit](https://github.com/2718labs/2718lab-devkit) - Codex-first local MCP server and skill bundle for deterministic project intelligence, durable workflow orchestration, and reusable engineering tools.
 - [A Team](https://github.com/RBraga01/a-team) - Universal multi-agent infrastructure with 25 specialist agents, 16 enforced workflow skills, and a lead orchestrator for Claude Code, Codex CLI, Cursor, and OpenCode.
@@ -798,6 +799,7 @@ Individually installable Agent Skills collections, rather than one client-specif
 - [Cutbolt](https://github.com/skulitom/cutbolt-plugin) - Claude Code plugin for Cutbolt, a local video editing engine, with its MCP tools and six skills for captions, talking-head recuts, multi-camera interviews, screen tutorials and delivery, saved as reversible edits (needs the cutbolt engine and FFmpeg).
 - [Darkmoon](https://github.com/ASCIT31/darkmoon-mcp-server) - Claude Code plugin and MCP server that drives a self-hosted Darkmoon Pro instance (autonomous AI pentest engine, GPL-3.0) to start a run against an authorized target, poll status, list campaigns and read findings; requires Darkmoon Pro and run_pentest is not read-only.
 - [Data Product Builder for dbt](https://github.com/entropy-data/dataproduct-builder-dbt) - Full data-product lifecycle on dbt for Entropy Data: scaffold, audit, and integrate projects with ODCS, ODPS, OpenLineage, and GitHub Actions.
+- [Datacircle](https://github.com/waynehamadi/datacircle-plugin) - Query your favorite B2B data APIs through us.
 - [DataForge](https://github.com/ianktoo/data-forge) - Turns any website into a quality-scored LLM fine-tuning dataset in JSONL, Parquet or on the Hugging Face Hub, with a CLI and a `dataforge mcp` server exposing tools to scrape, explore, validate, run and inspect a dataset build.
 - [datawebot](https://github.com/datawebot/datawebot-mcp) - MCP server: hosted, closed-source ecommerce product data server at `https://mcp.datawebot.com/mcp` that searches products across online shops, lists each seller's price for one product with direct shop links, and runs extraction jobs on Amazon, Walmart US and other store pages, with a Claude Code plugin, Gemini CLI extension and agent skill in the repository.
 - [DC Hub](https://github.com/azmartone67/dchub-mcp-server) - MCP server: DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. 94 tools at https://dchub.cloud/mcp.
