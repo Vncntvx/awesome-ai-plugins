@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "awesome-ai-plugins",
-  "last_updated": "2026-10-29",
+  "last_updated": "2026-10-30",
   "plugins": [
     {
       "name": "Registry Broker",
@@ -6950,6 +6950,21 @@
       "install_url": "https://raw.githubusercontent.com/skymanbp/CodeEraser/HEAD/plugin/.claude-plugin/plugin.json"
     },
     {
+      "name": "Codex Attachment Manager",
+      "displayName": "Codex Attachment Manager",
+      "description": "Choose which past images in a Codex desktop task go to the model with your next message; unchecked ones become short placeholders",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "platform": "claude-code",
+      "ecosystems": [
+        "claude-code"
+      ],
+      "owner": "chipfighter",
+      "repo": "codex-attachment-manager",
+      "url": "https://github.com/chipfighter/codex-attachment-manager",
+      "install_url": "https://raw.githubusercontent.com/chipfighter/codex-attachment-manager/HEAD/.claude-plugin/plugin.json"
+    },
+    {
       "name": "Codex Full-Stack Workflow",
       "displayName": "Codex Full-Stack Workflow",
       "description": "Turns rough product requests into staged, reviewable full-stack delivery with persistent requirements, change control, visual evidence, and completion gates",
@@ -11762,6 +11777,17 @@
       "installation_url": "https://github.com/ReARCLabs/bilinc#readme"
     },
     {
+      "name": "Bilinc",
+      "displayName": "Bilinc",
+      "description": "Persistent memory for AI agents over MCP: commit, recall, revise, snapshot and roll back agent state with provenance",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "owner": "atakanelik34",
+      "repo": "bilinc",
+      "url": "https://github.com/atakanelik34/bilinc",
+      "installation_url": "https://github.com/atakanelik34/bilinc#readme"
+    },
+    {
       "name": "bitwarden-use",
       "displayName": "bitwarden-use",
       "description": "Agent-friendly Bitwarden and Vaultwarden CLI with an in-memory key agent, FIDO2 passkeys and direct secret injection into child processes without printing credentials",
@@ -12189,6 +12215,17 @@
       "repo": "cutbolt-plugin",
       "url": "https://github.com/skulitom/cutbolt-plugin",
       "install_url": "https://raw.githubusercontent.com/skulitom/cutbolt-plugin/HEAD/.claude-plugin/plugin.json"
+    },
+    {
+      "name": "Datacircle",
+      "displayName": "Datacircle",
+      "description": "Query your favorite B2B data APIs through us",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "owner": "waynehamadi",
+      "repo": "datacircle-plugin",
+      "url": "https://github.com/waynehamadi/datacircle-plugin",
+      "installation_url": "https://github.com/waynehamadi/datacircle-plugin#readme"
     },
     {
       "name": "DataForge",
@@ -14984,6 +15021,21 @@
       "repo": "opencode-azure-devops-pr-review-v2",
       "url": "https://github.com/WTLAIB/opencode-azure-devops-pr-review-v2",
       "installation_url": "https://github.com/WTLAIB/opencode-azure-devops-pr-review-v2#readme"
+    },
+    {
+      "name": "better-opencode-tools",
+      "displayName": "better-opencode-tools",
+      "description": "Three OpenCode plugins that replace the built-in glob, grep and read tools, keeping output inside the host budget with a continuation offset, enforcing search deadlines and returning results in a stable order",
+      "category": "OpenCode Plugins",
+      "source": "awesome-ai-plugins",
+      "platform": "opencode",
+      "ecosystems": [
+        "opencode"
+      ],
+      "owner": "dhaern",
+      "repo": "better-opencode-tools",
+      "url": "https://github.com/dhaern/better-opencode-tools",
+      "installation_url": "https://github.com/dhaern/better-opencode-tools#readme"
     },
     {
       "name": "cursor-opencode-provider",

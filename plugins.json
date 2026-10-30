@@ -2,8 +2,8 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "name": "awesome-ai-plugins",
   "version": "1.0.0",
-  "last_updated": "2026-10-29",
-  "total": 1058,
+  "last_updated": "2026-10-30",
+  "total": 1062,
   "platforms": [
     "codex",
     "grok",
@@ -6499,6 +6499,20 @@
       ]
     },
     {
+      "name": "Codex Attachment Manager",
+      "url": "https://github.com/chipfighter/codex-attachment-manager",
+      "owner": "chipfighter",
+      "repo": "codex-attachment-manager",
+      "description": "Choose which past images in a Codex desktop task go to the model with your next message; unchecked ones become short placeholders",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "install_url": "https://raw.githubusercontent.com/chipfighter/codex-attachment-manager/HEAD/.claude-plugin/plugin.json",
+      "platform": "claude-code",
+      "ecosystems": [
+        "claude-code"
+      ]
+    },
+    {
       "name": "Codex Full-Stack Workflow",
       "url": "https://github.com/kevin592/codex-full-stack-workflow",
       "owner": "kevin592",
@@ -10960,6 +10974,16 @@
       "installation_url": "https://github.com/ReARCLabs/bilinc#readme"
     },
     {
+      "name": "Bilinc",
+      "url": "https://github.com/atakanelik34/bilinc",
+      "owner": "atakanelik34",
+      "repo": "bilinc",
+      "description": "Persistent memory for AI agents over MCP: commit, recall, revise, snapshot and roll back agent state with provenance",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "installation_url": "https://github.com/atakanelik34/bilinc#readme"
+    },
+    {
       "name": "bitwarden-use",
       "url": "https://github.com/leeguooooo/bitwarden-use",
       "owner": "leeguooooo",
@@ -11356,6 +11380,16 @@
       "ecosystems": [
         "claude-code"
       ]
+    },
+    {
+      "name": "Datacircle",
+      "url": "https://github.com/waynehamadi/datacircle-plugin",
+      "owner": "waynehamadi",
+      "repo": "datacircle-plugin",
+      "description": "Query your favorite B2B data APIs through us",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "installation_url": "https://github.com/waynehamadi/datacircle-plugin#readme"
     },
     {
       "name": "DataForge",
@@ -13946,6 +13980,20 @@
       "source": "awesome-ai-plugins",
       "platform": "opencode",
       "installation_url": "https://github.com/WTLAIB/opencode-azure-devops-pr-review-v2#readme",
+      "ecosystems": [
+        "opencode"
+      ]
+    },
+    {
+      "name": "better-opencode-tools",
+      "url": "https://github.com/dhaern/better-opencode-tools",
+      "owner": "dhaern",
+      "repo": "better-opencode-tools",
+      "description": "Three OpenCode plugins that replace the built-in glob, grep and read tools, keeping output inside the host budget with a continuation offset, enforcing search deadlines and returning results in a stable order",
+      "category": "OpenCode Plugins",
+      "source": "awesome-ai-plugins",
+      "platform": "opencode",
+      "installation_url": "https://github.com/dhaern/better-opencode-tools#readme",
       "ecosystems": [
         "opencode"
       ]
