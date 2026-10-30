@@ -3,7 +3,7 @@
   "name": "awesome-ai-plugins",
   "version": "1.0.0",
   "last_updated": "2026-10-30",
-  "total": 1068,
+  "total": 1069,
   "platforms": [
     "codex",
     "grok",
@@ -13956,6 +13956,19 @@
       "owner": "KyoMio",
       "repo": "dsh-zen-remote",
       "description": "DeepSeek Harness plugin that serves sessions to phones as a PWA with lock-screen push notifications and shares sessions to other DSH desktops",
+      "category": "DeepSeek Harness Plugins",
+      "source": "awesome-ai-plugins",
+      "platform": "deepseek-harness",
+      "ecosystems": [
+        "deepseek-harness"
+      ]
+    },
+    {
+      "name": "dsh-zotero",
+      "url": "https://github.com/Vncntvx/dsh-zotero",
+      "owner": "Vncntvx",
+      "repo": "dsh-zotero",
+      "description": "DeepSeek Harness plugin that searches, reads, and cites papers from a local Zotero library with an auditable literature trail",
       "category": "DeepSeek Harness Plugins",
       "source": "awesome-ai-plugins",
       "platform": "deepseek-harness",

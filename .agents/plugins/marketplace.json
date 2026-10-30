@@ -15000,6 +15000,20 @@
       "url": "https://github.com/KyoMio/dsh-zen-remote"
     },
     {
+      "name": "dsh-zotero",
+      "displayName": "dsh-zotero",
+      "description": "DeepSeek Harness plugin that searches, reads, and cites papers from a local Zotero library with an auditable literature trail",
+      "category": "DeepSeek Harness Plugins",
+      "source": "awesome-ai-plugins",
+      "platform": "deepseek-harness",
+      "ecosystems": [
+        "deepseek-harness"
+      ],
+      "owner": "Vncntvx",
+      "repo": "dsh-zotero",
+      "url": "https://github.com/Vncntvx/dsh-zotero"
+    },
+    {
       "name": "Engramory",
       "displayName": "Engramory",
       "description": "Curated, file-based long-term memory for DSH agents \u2014 plain markdown notes in one store shared across hosts, with the index size cap enforced as a monotonic `ctx.tools.guard()` refusal rather than a reminder. Install: `dsh plugin --profile <name> add dsh-engramory`",
