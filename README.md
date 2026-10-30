@@ -163,7 +163,6 @@ Individually installable Agent Skills collections, rather than one client-specif
 ### Development & Workflow
 
 <!-- pinned -->
-- [Codex Attachment Manager](https://github.com/chipfighter/codex-attachment-manager) - Choose which past images in a Codex desktop task go to the model with your next message; unchecked ones become short placeholders.
 - [geml](https://github.com/geml-spec/geml) - An agent-native markup language featuring deterministic block-level editing and built-in validation to ensure documents never drift or break during AI operations.
 - [2718lab DevKit](https://github.com/2718labs/2718lab-devkit) - Codex-first local MCP server and skill bundle for deterministic project intelligence, durable workflow orchestration, and reusable engineering tools.
 - [A Team](https://github.com/RBraga01/a-team) - Universal multi-agent infrastructure with 25 specialist agents, 16 enforced workflow skills, and a lead orchestrator for Claude Code, Codex CLI, Cursor, and OpenCode.
@@ -287,6 +286,7 @@ Individually installable Agent Skills collections, rather than one client-specif
 - [CodeEraser](https://github.com/skymanbp/CodeEraser) - Claude Code plugin whose hooks intercept a duplicate write before it lands, audit the net lines and the touched duplicates at Stop and walk the findings to safe deletions through an erase skill, backed by a clone index in a per-project daemon; the same index serves a CLI and an MCP server for scan, dedup, dead code and churn.
 - [CodeTruss](https://github.com/DeliriumPulse/codetruss-plugins) - Local-first acceptance gate that checks coding-agent scope, sensitive surfaces, deterministic analyzers, and repository verification from immutable Git snapshots, then writes signed receipts before the PR.
 - [Codex Agenteam](https://github.com/yimwoo/codex-agenteam) - Specialist AI agents (researcher, PM, architect, developer, QA, reviewer) orchestrated as a configurable team pipeline.
+- [Codex Attachment Manager](https://github.com/chipfighter/codex-attachment-manager) - Choose which past images in a Codex desktop task go to the model with your next message; unchecked ones become short placeholders.
 - [Codex Auto Resume](https://github.com/songyb111-gachon/codex-auto-resume-windows) - Unofficial Windows app and Codex plugin that waits out Codex usage limits, rate limits and temporary failures, then continues the exact interrupted conversation by itself, with a Dashboard, a tray icon and an optional advanced edition.
 - [Codex Full-Stack Workflow](https://github.com/kevin592/codex-full-stack-workflow) - Turns rough product requests into staged, reviewable full-stack delivery with persistent requirements, change control, visual evidence, and completion gates.
 - [Codex How To](https://github.com/Phelan164/codex-howto) - Engineering-first Codex curriculum and plugin with 9 skills, measured token-efficiency experiments, bounded orchestration, testing, review, and living knowledge maintenance.
