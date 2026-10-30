@@ -1175,6 +1175,21 @@
       "install_url": "https://raw.githubusercontent.com/ohad6k/emulo/HEAD/.codex-plugin/plugin.json"
     },
     {
+      "name": "EndoStack",
+      "displayName": "EndoStack",
+      "description": "Security-first workflows for coding agents that threat-model, security-review and verify code changes before they ship, across Codex, Claude Code, Cursor and Copilot.",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "platform": "codex",
+      "ecosystems": [
+        "codex"
+      ],
+      "owner": "requie",
+      "repo": "endostack",
+      "url": "https://github.com/requie/endostack",
+      "install_url": "https://raw.githubusercontent.com/requie/endostack/HEAD/.codex-plugin/plugin.json"
+    },
+    {
       "name": "Epic Harness",
       "displayName": "Epic Harness",
       "description": "Auto-trigger quality skills + self-evolving agent harness \u2014 orbit (spec-to-ship), evolve (skill mutation), team (multi-agent), TDD, check, ship, simplify, debug, perf, secure.",
@@ -2936,6 +2951,21 @@
       "install_url": "https://raw.githubusercontent.com/bankbridge-money/bankbridge-plugin/HEAD/.codex-plugin/plugin.json"
     },
     {
+      "name": "BestPrice",
+      "displayName": "BestPrice",
+      "description": "Official remote MCP server and skill for read-only shopping decisions, product search, Greek merchant offers with delivered totals, and price history from BestPrice.gr.",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "platform": "codex",
+      "ecosystems": [
+        "codex"
+      ],
+      "owner": "TheBestCo",
+      "repo": "bestprice-mcp",
+      "url": "https://github.com/TheBestCo/bestprice-mcp",
+      "install_url": "https://raw.githubusercontent.com/TheBestCo/bestprice-mcp/HEAD/.codex-plugin/plugin.json"
+    },
+    {
       "name": "Bitbucket CLI",
       "displayName": "Bitbucket CLI",
       "description": "Manage Bitbucket repos, PRs, branches, issues, webhooks, and pipelines for Data Center and Cloud.",
@@ -3679,6 +3709,21 @@
       "install_url": "https://raw.githubusercontent.com/mohamedOmar11111/growth-architect-foundry/HEAD/.codex-plugin/plugin.json"
     },
     {
+      "name": "Frugal",
+      "displayName": "Frugal",
+      "description": "Skill that has Codex check free tiers, programs, verified promo codes and cheaper alternatives before anything is bought, subscribed to or upgraded.",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "platform": "codex",
+      "ecosystems": [
+        "codex"
+      ],
+      "owner": "fainir",
+      "repo": "frugal",
+      "url": "https://github.com/fainir/frugal",
+      "install_url": "https://raw.githubusercontent.com/fainir/frugal/HEAD/.codex-plugin/plugin.json"
+    },
+    {
       "name": "FXMacroData",
       "displayName": "FXMacroData",
       "description": "Official-source macro releases, central-bank rates, release calendars and FX rates for 22 currencies through the hosted FXMacroData MCP server.",
@@ -4013,6 +4058,21 @@
       "repo": "local-mcp-releases",
       "url": "https://github.com/colibird-ai/local-mcp-releases",
       "install_url": "https://raw.githubusercontent.com/colibird-ai/local-mcp-releases/HEAD/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "Long-form Distribution",
+      "displayName": "Long-form Distribution",
+      "description": "Turns a published essay or newsletter issue into LinkedIn, X and Substack Notes posts cut from the author's own sentences, checks each post against the source, and tracks what went live on a local dashboard.",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "platform": "codex",
+      "ecosystems": [
+        "codex"
+      ],
+      "owner": "mrowean",
+      "repo": "long-form-distribution",
+      "url": "https://github.com/mrowean/long-form-distribution",
+      "install_url": "https://raw.githubusercontent.com/mrowean/long-form-distribution/HEAD/.codex-plugin/plugin.json"
     },
     {
       "name": "Loomaly",
@@ -8687,21 +8747,6 @@
       "repo": "logicprobe",
       "url": "https://github.com/AmethystLuna/logicprobe",
       "install_url": "https://raw.githubusercontent.com/AmethystLuna/logicprobe/HEAD/.codex-plugin/plugin.json"
-    },
-    {
-      "name": "long-form-distribution",
-      "displayName": "long-form-distribution",
-      "description": "Claude Code plugin that turns a published long-form piece into per-section LinkedIn, X and Substack Notes drafts, with a dashboard that tracks what's been posted",
-      "category": "Development & Workflow",
-      "source": "awesome-ai-plugins",
-      "platform": "codex",
-      "ecosystems": [
-        "codex"
-      ],
-      "owner": "mrowean",
-      "repo": "long-form-distribution",
-      "url": "https://github.com/mrowean/long-form-distribution",
-      "install_url": "https://raw.githubusercontent.com/mrowean/long-form-distribution/HEAD/.codex-plugin/plugin.json"
     },
     {
       "name": "loose-ends",
