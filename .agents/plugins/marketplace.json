@@ -12124,6 +12124,21 @@
       "install_url": "https://raw.githubusercontent.com/TencentCloudBase/CloudBase-AI-Toolkit/HEAD/.claude-plugin/plugin.json"
     },
     {
+      "name": "Cockatoo",
+      "displayName": "Cockatoo",
+      "description": "MCP server: create, edit and publish hosted business websites through Streamable HTTP with OAuth and owner-approved permissions",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "platform": "mcp",
+      "ecosystems": [
+        "mcp"
+      ],
+      "owner": "louisblythe",
+      "repo": "cockatoo-mcp",
+      "url": "https://github.com/louisblythe/cockatoo-mcp",
+      "installation_url": "https://github.com/louisblythe/cockatoo-mcp#readme"
+    },
+    {
       "name": "Command Code Usage",
       "displayName": "Command Code Usage",
       "description": "Shows Command Code plan quota (5-hour, weekly and monthly windows with reset times) inside Claude Code, Codex, ZCode, Grok Build, opencode, pi and DeepSeek Harness, read from local session data so checking your quota costs no quota",
