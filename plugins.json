@@ -3,7 +3,7 @@
   "name": "awesome-ai-plugins",
   "version": "1.0.0",
   "last_updated": "2026-10-29",
-  "total": 1057,
+  "total": 1058,
   "platforms": [
     "codex",
     "grok",
@@ -13825,6 +13825,19 @@
       "owner": "yanzwzz",
       "repo": "dsh-whale-girl-pet",
       "description": "Desktop pet plugin for the DeepSeek Harness web UI that reports task token usage, session and per-turn cost pills, and hourly spend dashboards",
+      "category": "DeepSeek Harness Plugins",
+      "source": "awesome-ai-plugins",
+      "platform": "deepseek-harness",
+      "ecosystems": [
+        "deepseek-harness"
+      ]
+    },
+    {
+      "name": "dsh-zen-remote",
+      "url": "https://github.com/KyoMio/dsh-zen-remote",
+      "owner": "KyoMio",
+      "repo": "dsh-zen-remote",
+      "description": "DeepSeek Harness plugin that serves sessions to phones as a PWA with lock-screen push notifications and shares sessions to other DSH desktops",
       "category": "DeepSeek Harness Plugins",
       "source": "awesome-ai-plugins",
       "platform": "deepseek-harness",
